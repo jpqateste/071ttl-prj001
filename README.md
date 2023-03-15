@@ -17,6 +17,33 @@
 |Prioridade |Alta|
 |Severidade|Alta|
 
+## 2. Propósito
+
+Este plano de teste visa, executar testes do tipo funcional com base em critérios de aceite do sistema  para validar o projeto Swag Labs. Um site com propósito de venda de itens.
+
+## 3. Público Alvo
+
+
+Clientes que desejam comprar roupas e acessórios para o seu dia a dia.
+
+## 4. Escopo
+
+|  |
+|:---|
+|1. Login|
+|2. busca de produtos| 
+|3. filtro de produtos|
+|4. detalhes do produto| 
+|5. carrinho|
+|6. entrega|
+
+## 4. Definições, Acrônimos e Abreviações.
+
+--
+
+## 5. Referências.
+
+O plano de teste está sendo criado com base em testes exploratórios e experiências anteriores do time de QA.
 
 ## 2. Cenários de Teste
 
