@@ -1,6 +1,6 @@
 ## 071 Traning Test Lab
 
-## Projeto #PRJ001 - Testes funcionais na plataforma demonstraçao da Selenium - Atomation Pratice
+## PRJ001 - Projeto de Testes funcionais na plataforma demo Selenium Atomation Pratice
 
 |ID #| Nome | Descrição |
 |-|-|-|
