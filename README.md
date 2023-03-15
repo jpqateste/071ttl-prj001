@@ -1,21 +1,20 @@
 ## 071 Traning Test Lab
 
-## PRJ001 - Projeto de Testes funcionais na plataforma demo Selenium Atomation Pratice
+## Plano de Testes do site de e-commerce Automation Pratice - (Selenium)
 
-|ID #| Nome | Descrição |
+|ID #| Descrição |
+|-|-|
+|#PRJ001|Testes funcionais na plataforma de demonstraçao a tarefas de automação da Selenium|
+
+## 1. Introdução
+
+|Dados|  ||
 |-|-|-|
-|#PRJ001|Testes no web site e-commerce Automation Pratice|Testes funcionais na plataforma de demonstraçao a tarefas de automação da Selenium|
-
-
-
-## 1. Plano de Testes (Lean Test Plan)
-
-|Plano de Teste| e-commerce Automation Pratice |||
-|-|-|-|-|
 |Analista de Teste|João Paulo Carvalho| joaopaulo.qateste@gmail.com |
-|Data de Inicio|15/03/2023| Data Final | - |
+|Data de Inicio | 15/03/2023|
+|Data Final | - |
 |Prioridade |Alta|
-|Severidade|Alta|
+|Severidade |Alta|
 
 ## 2. Propósito
 
@@ -28,22 +27,23 @@ Clientes que desejam comprar roupas e acessórios para o seu dia a dia.
 
 ## 4. Escopo
 
-|  |
-|:---|
-|1. Login|
-|2. busca de produtos| 
-|3. filtro de produtos|
-|4. detalhes do produto| 
-|5. carrinho|
-|6. entrega|
+| ID do Requisito/Caso de Uso| Requisito/Caso de Uso | Tipo de Teste | Teste por meio de |
+|---|---|---|---| 
+| REQ 1 - Funcionalidade login | Eu, como usuário Gostaria, de logar na aplicação Porque, quero ter acesso ao sistema| Funcional | Critério de Aceite |
+|REQ 2 - Validar o Menu do site | Eu, como usuário, Gostaria, de ter um menu Porque, quero navegar na aplicação de forma simplificada|	
+| REQ 3 - Funcionalidade de adicionar itens ao carrinho | Eu, como usuário, Gostaria, de adicionar itens ao meu carrinho Porque, quero realizar a sua compra|		
+| REQ 4 - Funcionalidade de remover itens do carrinho | Eu, como usuário, Gostaria, de remover itens ao meu carrinho, Porque, quero não quero mais realizar a sua compra |		
+| REQ 5 -  Filtrar itens no site | Eu, como usuário Gostaria, de filtrar os itens do site Porque, assim escolho a ordem dos itens que devem aparecer|	
 
-## 4. Definições, Acrônimos e Abreviações.
+## 5. Definições, Acrônimos e Abreviações.
 
 --
 
-## 5. Referências.
+## 6. Referências.
 
 O plano de teste está sendo criado com base em testes exploratórios e experiências anteriores do time de QA.
+
+
 
 ## 2. Cenários de Teste
 
