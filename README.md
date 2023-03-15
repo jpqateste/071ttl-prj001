@@ -10,6 +10,13 @@
 
 ## 1. Plano de Testes (Lean Test Plan)
 
+|Plano de Teste| e-commerce Automation Pratice |||
+|-|-|-|-|
+|Analista de Teste|João Paulo Carvalho| joaopaulo.qateste@gmail.com |
+|Data de Inicio|15/03/2023| Data Final | - |
+|Prioridade |Alta|
+|Severidade|Alta|
+
 
 ## 2. Cenários de Teste
 
