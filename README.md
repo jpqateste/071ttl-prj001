@@ -1,4 +1,4 @@
-<img style="margin: 0px" src="https://raw.githubusercontent.com/jpqateste/071ttl/main/071TTL.png" alt="Lab 071TTL" title="Lab 071TTL" />
+<img style="margin: 0px" src="https://github.com/jpqateste/071ttl-prj001/blob/main/Index.jpg" alt="Site e-commerce" title="Site e-commerce" />
 
 
 ## Plano de Testes do site de e-commerce Automation Pratice - (Selenium)
@@ -43,14 +43,3 @@ Clientes que desejam comprar roupas e acessórios para o seu dia a dia.
 ## 6. Referências.
 
 O plano de teste está sendo criado com base em testes exploratórios e experiências anteriores do time de QA.
-
-
-
-## 2. Cenários de Teste
-
-
-#### Note: A Release Cycle is equivalent to 4 weeks or 1 month.
-|Req. #| Brief Req. Description | Req. source | Req. Priority | Initial Sprint No. | Final Sprint No. | Req. Status |
-|-|-|-|-|-|-|-|
-|2|Data Transaction/Exchange System|Client|Priority 1|1|10|Accepted for this Release|
-|3|Train delay or schedule changes must be updated in less than 3 seconds|Client|Priority 1|1|10|Accepted for this Release|
