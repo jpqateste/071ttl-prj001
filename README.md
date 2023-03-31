@@ -1,3 +1,6 @@
+<img style="margin: 0px" src="https://raw.githubusercontent.com/jpqateste/071ttl/main/071TTL.png" alt="Lab 071TTL" title="Lab 071TTL" />
+
+
 ## Plano de Testes do site de e-commerce Automation Pratice - (Selenium)
 
 |ID #| Descrição |
