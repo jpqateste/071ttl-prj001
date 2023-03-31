@@ -1,10 +1,8 @@
-## 071 Traning Test Lab
-
 ## Plano de Testes do site de e-commerce Automation Pratice - (Selenium)
 
 |ID #| Descrição |
 |-|-|
-|#PRJ001|Testes funcionais na plataforma de demonstraçao a tarefas de automação da Selenium|
+|#PRJ001|Testes funcionais na plataforma de e-commerce (demonstração Selenum)|
 
 ## 1. Introdução
 
